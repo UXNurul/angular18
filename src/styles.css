@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.content {
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
